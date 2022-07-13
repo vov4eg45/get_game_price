@@ -1,0 +1,9 @@
+*.class
+*.log
+/.idea/
+/homework/target/
+/lecture/target/
+/target/
+/project/target
+/project/project/target
+/.bsp
